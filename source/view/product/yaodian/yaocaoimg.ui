@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"750",
+		"y":"0",
+		"id":"lay_cell",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"750",
+				"id":"yaocao_img",
+				"type":"do_ImageView",
+				"cacheType":"always",
+				"height":"420"
+			}
+		],
+		"height":"420"
+	}
+}

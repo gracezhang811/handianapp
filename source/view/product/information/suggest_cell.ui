@@ -1,0 +1,31 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"750",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"looping":"true",
+				"templates":"source://view/product/information/news_carousel_cell.ui",
+				"width":"750",
+				"isAllCache":"true",
+				"id":"cover_carousel",
+				"type":"do_SlideView",
+				"height":"356"
+			},
+			{
+				"textAlign":"center",
+				"x":"588",
+				"width":"120",
+				"y":"296",
+				"fontSize":"30",
+				"id":"do_Label_1",
+				"text":"1/3",
+				"type":"do_Label",
+				"height":"60"
+			}
+		],
+		"height":"356"
+	}
+}

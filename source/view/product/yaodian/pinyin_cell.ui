@@ -1,0 +1,32 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"57",
+		"y":"0",
+		"id":"lay_cell",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"37",
+				"x":"10",
+				"y":"13",
+				"id":"do_ALayout_2",
+				"bgImage":"source://image/pinyin.png",
+				"type":"do_ALayout",
+				"height":"49"
+			},
+			{
+				"textAlign":"center",
+				"width":"37",
+				"x":"10",
+				"y":"13",
+				"fontSize":"22",
+				"id":"lab_pinyin",
+				"type":"do_Label",
+				"fontColor":"FFFFFFFF",
+				"height":"49"
+			}
+		],
+		"height":"75"
+	}
+}

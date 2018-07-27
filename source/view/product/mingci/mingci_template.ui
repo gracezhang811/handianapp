@@ -1,0 +1,32 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"750",
+		"y":"0",
+		"id":"lay_cell",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"linesSpace":"15",
+				"x":"30",
+				"width":"690",
+				"y":"30",
+				"maxLines":"3",
+				"fontSize":"32",
+				"id":"lab_yaocaoname",
+				"type":"do_Label",
+				"fontColor":"333333FF",
+				"height":"50"
+			},
+			{
+				"bgColor":"EFEFEFFF",
+				"width":"750",
+				"y":"108",
+				"id":"do_ALayout_3",
+				"type":"do_ALayout",
+				"height":"2"
+			}
+		],
+		"height":"110"
+	}
+}

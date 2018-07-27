@@ -1,0 +1,31 @@
+{
+	"RootView":{
+		"width":"692",
+		"id":"do_LinearLayout_1",
+		"type":"do_LinearLayout",
+		"views":[
+			{
+				"margin":"0,20,5,622",
+				"width":"50",
+				"x":"622",
+				"id":"do_ImageView_1",
+				"source":"source://image/user01.png",
+				"type":"do_ImageView",
+				"height":"50"
+			},
+			{
+				"margin":"0,20,0,20",
+				"textAlign":"right",
+				"width":"652",
+				"x":"20",
+				"y":"55",
+				"maxLines":"5",
+				"fontSize":"30",
+				"id":"lab_send",
+				"type":"do_Label",
+				"height":"-1"
+			}
+		],
+		"height":"-1"
+	}
+}

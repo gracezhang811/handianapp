@@ -1,0 +1,30 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"750",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"750",
+				"y":"169",
+				"id":"web_show",
+				"type":"do_WebView",
+				"height":"1160"
+			},
+			{
+				"y":"45",
+				"id":"do_ALayout_back",
+				"type":"do_ALayout",
+				"views":[
+					{
+						"id":"do_ImageView_1",
+						"source":"source://image/back.png",
+						"type":"do_ImageView"
+					}
+				]
+			}
+		],
+		"height":"1334"
+	}
+}

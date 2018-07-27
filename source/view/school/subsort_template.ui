@@ -1,0 +1,30 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"250",
+		"y":"0",
+		"id":"lay_cell",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"textAlign":"center",
+				"x":"35",
+				"width":"179",
+				"y":"9",
+				"fontSize":"28",
+				"id":"lab_name",
+				"type":"do_Label",
+				"height":"53"
+			},
+			{
+				"x":"35",
+				"width":"179",
+				"y":"65",
+				"id":"lay_underline",
+				"type":"do_ALayout",
+				"height":"4"
+			}
+		],
+		"height":"81"
+	}
+}
